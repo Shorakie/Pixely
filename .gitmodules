@@ -12,3 +12,6 @@
 	path = vendor/spdlog
 	url = https://github.com/gabime/spdlog.git
 	branch = v1.x
+[submodule "vendor/tracy"]
+	path = vendor/tracy
+	url = https://github.com/wolfpld/tracy.git
